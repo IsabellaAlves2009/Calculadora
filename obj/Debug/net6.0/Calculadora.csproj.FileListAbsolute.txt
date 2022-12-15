@@ -1,0 +1,15 @@
+/home/isabella/Calculadora/bin/Debug/net6.0/Calculadora
+/home/isabella/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/isabella/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/isabella/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/isabella/Calculadora/bin/Debug/net6.0/ref/Calculadora.dll
+/home/isabella/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/isabella/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/isabella/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
